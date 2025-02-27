@@ -9,7 +9,7 @@
 
 - 📫 Bana nasıl ulaşabilirsiniz **alperkemalakdeniz@gmail.com**
 
-- 📰 
+- 📰 Yazılarıma ulaşmak için [medium.com](https://medium.com/@kemalalperakdeniz)
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
