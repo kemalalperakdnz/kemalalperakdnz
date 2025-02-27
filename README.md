@@ -9,6 +9,8 @@
 
 - 📫 Bana nasıl ulaşabilirsiniz **alperkemalakdeniz@gmail.com**
 
+- 📰 
+
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kemal-alper-akdeniz-00955718b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalalperakdeniz" height="30" width="40" /></a>
