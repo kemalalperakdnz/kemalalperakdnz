@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Kemal Alper AKDENİZ</h1>
-<h3 align="center">kemalalperakdnz Merhaba, ben Kemal Alper, Mersin Üniversitesi Bilgisayar Bilimleri ve Teknolojileri bölümü öğrencisiyim. Amacım ön uç geliştirici olmak ve çalışıyorum.</h3>
+<h3 align="center">kemalalperakdnz Merhaba, ben Kemal Alper, Mersin Üniversitesi Bilişim Sistemleri ve Teknolojileri bölümü ve Anadolu Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Amacım ön uç geliştirici olmak ve çalışıyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalalperakdnz&label=Profile%20views&color=0e75b6&style=flat" alt="kemalalperakdnz" /> </p> <p align="left"
 
